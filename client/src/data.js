@@ -2,7 +2,7 @@
 // Later (Class 10) this data will come from MongoDB instead.
 // We use "_id" because MongoDB gives every item an _id.
 export const profile = {
-  name: "Aman Verma",
+  name: "Rajeev Shivah",
   title: "MERN Stack Developer",
   tagline:
     "I build simple, fast web apps with React and Node.js — " +
@@ -13,10 +13,10 @@ export const profile = {
     "and I've spent the last year building projects with the MERN stack.",
   photo: "/profile.jpeg",
   resumeUrl: "#",
-  email: "aman@example.com",
+  email: "rajeevsivah@gmail.com",
   location: "Varanasi, India",
-  github: "https://github.com/amanverma",
-  linkedin: "https://linkedin.com/in/amanverma",
+  github: "https://github.com/rajeevshivah",
+  linkedin: "https://linkedin.com/in/rajeevshivah",
 };
 export const skills = [
   { _id: "1", name: "HTML", category: "Frontend" },
